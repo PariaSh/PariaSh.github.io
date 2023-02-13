@@ -237,7 +237,7 @@ img.photo {
     float:              right;
     margin:             0 0 0px 0;
     overflow:           hidden;
-    width:              730px;
+    width:              75%;
     z-index:            2;
 }
 
@@ -281,7 +281,7 @@ img.photo {
 #page {
     display:            block;
     margin:             90px auto 0 auto;
-    width:              975px;
+    width:              70%;
 }
 
 #me {
@@ -353,7 +353,7 @@ img.photo {
 
 .cv-entry .main {
     box-sizing:         border-box;
-    -moz-box-sizing:    border-box;
+    -moz-box-sizing:    border-box;-
     display:            block;
     float:              right;
     width:              75%;
