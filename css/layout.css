@@ -239,17 +239,25 @@ img.photo {
     overflow:           hidden;
     width:              75%;
     z-index:            2;
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
 }
 
 #main-content p {
     color:              #000;
+    font-family:        'Book Antiqua', 'Palatino', serif;
     font-size:          16px;
+    font-weight:        normal;
     line-height:        28px;
     margin:             24px 15px;
 }
 
 #main-content a {
     color:              #0479A8;
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
     text-decoration: inherit;
     -webkit-transition: all 0.3s ease-in;
     -webkit-transition-delay: 0.2s;
@@ -258,6 +266,9 @@ img.photo {
 }
 
 #main-content a:hover {
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
     color:              #c00;
     text-decoration:    none;
     text-shadow:        0 0 3px #ecc;
