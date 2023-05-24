@@ -259,7 +259,7 @@ img.photo {
 
 #main-content a:hover {
     font-family:        'Book Antiqua', 'Palatino', serif;
-    font-size:          16px;
+/*    font-size:          16px;*/
     font-weight:        normal;
     color:              #c00;
     text-decoration:    none;
@@ -338,6 +338,11 @@ img.photo {
     float:              left;
     margin:             10px 0;
     width:              100%;
+}
+
+.cv-section a:hover {
+    font-family: inherit;
+    font-size: inherit;
 }
 
 .cv-entry {
