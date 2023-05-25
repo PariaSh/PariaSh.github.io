@@ -240,15 +240,11 @@ img.photo {
     width:              75%;
     z-index:            2;
     font-family:        'Book Antiqua', 'Palatino', serif;
-    font-size:          16px;
-    font-weight:        normal;
 }
 
 #main-content p {
     color:              #000;
     font-family:        'Book Antiqua', 'Palatino', serif;
-    font-size:          16px;
-    font-weight:        normal;
     line-height:        28px;
     margin:             24px 15px;
 }
