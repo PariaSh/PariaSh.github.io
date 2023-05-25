@@ -239,17 +239,25 @@ img.photo {
     overflow:           hidden;
     width:              75%;
     z-index:            2;
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
 }
 
 #main-content p {
     color:              #000;
+    font-family:        'Book Antiqua', 'Palatino', serif;
     font-size:          16px;
+    font-weight:        normal;
     line-height:        28px;
     margin:             24px 15px;
 }
 
 #main-content a {
     color:              #0479A8;
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
     text-decoration: inherit;
     -webkit-transition: all 0.3s ease-in;
     -webkit-transition-delay: 0.2s;
@@ -259,7 +267,7 @@ img.photo {
 
 #main-content a:hover {
     font-family:        'Book Antiqua', 'Palatino', serif;
-/*    font-size:          16px;*/
+    font-size:          16px;
     font-weight:        normal;
     color:              #c00;
     text-decoration:    none;
@@ -331,22 +339,14 @@ img.photo {
     float:              right;
 }
 
-/*Top*/
 .cv-section {
-    font-family:        'Book Antiqua', 'Palatino', serif;
     display:            block;
     float:              left;
     margin:             10px 0;
     width:              100%;
 }
 
-.cv-section a:hover {
-    font-family: inherit;
-    font-size: inherit;
-}
-
 .cv-entry {
-    font-family:        'Book Antiqua', 'Palatino', serif;
     display:            block;
     float:              left;
     margin-bottom:      24px;
@@ -355,7 +355,6 @@ img.photo {
 }
 
 .cv-entry .date-location {
-    font-family:        'Book Antiqua', 'Palatino', serif;
     box-sizing:         border-box;
     -moz-box-sizing:    border-box;
     display:            block;
@@ -364,7 +363,6 @@ img.photo {
 }
 
 .cv-entry .main {
-    font-family:        'Book Antiqua', 'Palatino', serif;
     box-sizing:         border-box;
     -moz-box-sizing:    border-box;-
     display:            block;
@@ -413,10 +411,12 @@ h3 {
 }
 
 .cv-entry .main ul {
-    font-family:        'Book Antiqua', 'Palatino', serif;
     clear:              left;
     display:            block;
     float:              left;
+    font-family:        'Book Antiqua', 'Palatino', serif;
+    font-size:          16px;
+    font-weight:        normal;
     line-height:        20px;
     box-sizing:         border-box;
     -moz-box-sizing:    border-box;
@@ -426,7 +426,6 @@ h3 {
 
 .cv-entry .main ul li {
     margin:             0 0 8px 0;
-    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 .cv-entry ul {
@@ -443,7 +442,6 @@ h3 {
 
 .cv-entry ul li {
     margin:             0 0 8px 0;
-    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 h4 {
