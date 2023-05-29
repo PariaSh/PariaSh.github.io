@@ -177,8 +177,7 @@ img.photo {
 #quick-links a {
     color:              #000;
     display:            block;
-    font-family:        'Oxygen', serif;
-    font-size:          14px;
+    font-family:        'Book Antiqua', 'Palatino', serif;
     line-height:        24px;
     margin:             2px 0;
     opacity:            0.85;
@@ -279,6 +278,7 @@ img.photo {
     display:            block;
     height:             2px;
     margin:             30px 0;
+    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 #page {
@@ -336,6 +336,7 @@ img.photo {
     float:              left;
     margin:             10px 0;
     width:              100%;
+    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 .cv-entry {
@@ -344,6 +345,7 @@ img.photo {
     margin-bottom:      24px;
     width:              100%;
     text-align:         justify;
+    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 .cv-entry .date-location {
@@ -352,6 +354,7 @@ img.photo {
     display:            block;
     float:              left;
     width:              25%;
+    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 .cv-entry .main {
@@ -360,6 +363,7 @@ img.photo {
     display:            block;
     float:              right;
     width:              75%;
+    font-family:        'Book Antiqua', 'Palatino', serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -407,7 +411,6 @@ h3 {
     display:            block;
     float:              left;
     font-family:        'Book Antiqua', 'Palatino', serif;
-    font-size:          16px;
     font-weight:        normal;
     line-height:        20px;
     box-sizing:         border-box;
@@ -425,7 +428,6 @@ h3 {
     display:            block;
     float:              left;
     font-family:        'Book Antiqua', 'Palatino', serif;
-    font-size:          18px;
     font-weight:        normal;
     line-height:        25px;
     margin:             0;
